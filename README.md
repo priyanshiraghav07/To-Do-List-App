@@ -1,2 +1,3 @@
-# To-do-list-app
-This is a TO DO LIST APP project using HTML , CSS , JAVASCRIPT (JS) .
+# To Do List App
+**This is a _TO DO LIST APP_ project using HTML , CSS , JAVASCRIPT (JS) .**     
+*Project Link :*
